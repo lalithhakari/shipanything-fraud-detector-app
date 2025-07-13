@@ -1,4 +1,4 @@
-# Dockerfile for Auth Service
+# Dockerfile for Fraud Detector Service
 FROM php:8.2-fpm-alpine
 
 # Install system dependencies
