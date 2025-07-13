@@ -3,5 +3,5 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return "Welcome to the Fraud Detector App!";
+    return 'Fraud Detector App - INSTANT UPDATES! ⚡️ Time: ' . date('H:i:s') . ' - Hot reload working! 🔥';
 });
